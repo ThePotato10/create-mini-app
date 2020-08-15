@@ -5,4 +5,4 @@
 <br><br>
 <em>create-mini-app</em> builds on <em>create-react-app</em> by removing all the files you don't need if you're just building a React website or webapp
 <br><hr><br>
-Currently, only a Bash version is available, but anyone is more than welcome to contribute a PowerShell version
+Currently, only a Bash version is available, but anyone is more than welcome to contribute a PowerShell or Batch version
